@@ -1,0 +1,10 @@
+bezier==2024.6.20
+cloud_volume==12.1.0
+matplotlib==3.10.5
+networkx==3.4.2
+nicegui==2.23.3
+numpy==2.3.2
+ordered_set==4.1.0
+plot==0.6.5
+scipy==1.16.1
+skimage==0.0
