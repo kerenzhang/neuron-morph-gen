@@ -1,5 +1,5 @@
 # Neuron Generator GUI User Guide
-Welcome to the neuron morphology generator, a versatile and efficient simulation tool that generate morphology of neuron with distribution of parameters.
+Welcome to the neuron morphology generator, a versatile and efficient simulation tool that generates morphology of neuron with distribution of parameters.
 
 The generation is a GUI-based iterative process with visualization of generated neurons and adjustment of parameters, which is rendered in real time. The parameters are categorized into various biological scales. For details of the parameters, please refer to [GUI user guide](rsc/GUI_User_Guide.md). The parameters can be customized and expanded upon user's need. 
 
